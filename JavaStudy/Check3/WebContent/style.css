@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.header{
+	background-color: gray;
+}	
+
+.footer{
+	background-color: gray;
+}
+label{
+	display: inline-block;
+}
+
+.label{
+	padding: 10px;
+	color: white;
+	}
+	
+.label2{
+	padding: 10px;
+	font-size: 10px;
+}
+
+.main{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
