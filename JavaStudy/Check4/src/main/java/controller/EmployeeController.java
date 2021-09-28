@@ -18,7 +18,7 @@ import service.EmployeeService;
  
 public class EmployeeController extends HttpServlet {
  public void doPost(HttpServletRequest request, HttpServletResponse response)
- throws ServletException, IOException {
+ throws ServletException, IOException {         
  
  try {
   // 問① index.htmlから送信されたIDとPassWordの値を取得できるように修正しましょう。
