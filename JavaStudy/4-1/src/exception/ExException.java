@@ -20,7 +20,7 @@ public class ExException {
     private static final int CONST_EXCEPTION_TRIGER_CAST = 3;
 
     // 定数（クラスキャストの例外用）
-    private static final Object CONST_OBJ_FOR_CLASS_CAST = 100;
+    private static final Object CONST_OBJ_FOR_C　LASS_CAST = 100;
 
     // 定数（メッセージ）
     private static final String CONST_COMMON_INIT_INFO = "\n■3-3-4:ExException 入力値「1: 続行」／「-1: 終了」";
