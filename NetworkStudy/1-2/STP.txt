@@ -1,0 +1,22 @@
+
+問１
+　
+switch３：ルートブリッジ
+
+問２
+
+
+
+switch１：F0/1ーDP　　F0/2ーRP
+switch２：F0/1ーRP　　F0/2ーBP
+switch３：E0/1ーDP　　E0/2ーDP
+switch４：E0/1ーDP　　E0/2ーRP
+
+①switch１からswitch３を見て、経路としてはswitch１ーswitch３の方が小さいので　下側ポートがRPになる。
+②switch２からswitch３を見て、経路としてはswitch２ーswitch１ーswitch３の方がショートパスコストが小さいので左側ポートがRPになる。
+③switch４からswitch３を見て、経路としてはswitch４ーswitch３の方がショートパスコストが小さいので左側ポートがRPになる。
+
+④RPの対向ポートは指定ポートになる。
+⑤switch2-switch4間には役割がないので、ブリッジIDの値が小さいswitch4の上側がDPになる。
+⑥switch2の下側ポートは役割がないので、ブロッキングポートを割り振る。
+
