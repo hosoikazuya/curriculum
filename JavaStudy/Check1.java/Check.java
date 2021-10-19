@@ -3,7 +3,7 @@ public class Check{
 
         int[]data={3,1,2,7,5};
 
-        for(int i=0; i<data.length; i++){
+        for(int i=0; i<4; i++){
             System.out.print(data[i]+" ");
         }
         System.out.println();
