@@ -1,0 +1,28 @@
+　
+問
+
+（１）MACアドレス：AAAA.AAAA.AAAA
+　　　　　AA AA AA AA AA AA
+        AA AA AA FF FE AA AA AA
+        1010 1010 AA AA FF FE AA AA AA
+        1010 1000 AA AA FF FE AA AA AA
+
+        A8 AA AA FF FE AA AA AA
+　　　
+
+（２）MACアドレス：9876.5432.10FE
+       98 76 54 32 10 FE
+　　　　98 76 54 FF FE 32 10 FE
+      1001 1000 
+      1001 1010
+
+      9A 76 54 FF FE 32 10 FE
+
+
+（３）MACアドレス：FFFF.FFFF.FFFF
+      FF FF FF FF FF FF FF
+      FF FF FF FF FE FF FF FF 
+      1111 1111 FF FF FE FF FF FF
+      1111 1101 
+
+      FD FF FF FE FF FF FF
