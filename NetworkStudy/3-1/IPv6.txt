@@ -20,9 +20,9 @@
 
 
 （３）MACアドレス：FFFF.FFFF.FFFF
-      FF FF FF FF FF FF FF
+      FF FF  FF FF FF FF  
       FF FF FF FF FE FF FF FF 
       1111 1111 FF FF FE FF FF FF
       1111 1101 
 
-      FD FF FF FE FF FF FF
+      FD FF FF FF FE FF FF FF
