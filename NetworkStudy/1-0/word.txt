@@ -14,6 +14,7 @@ LAN
 　・無線LAN
 　　LANケーブルを使わず電波で無線接続する方法（Wi-fi）
 
+
 WAN
 　Wide Area Network（ワイドエリアネットワーク）
 　LANとLANを繋いだもの
